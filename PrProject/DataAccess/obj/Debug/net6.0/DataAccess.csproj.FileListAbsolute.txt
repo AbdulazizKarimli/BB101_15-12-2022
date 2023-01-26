@@ -1,0 +1,17 @@
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Kamran\Desktop\BB101_15-12-2022\PrProject\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
